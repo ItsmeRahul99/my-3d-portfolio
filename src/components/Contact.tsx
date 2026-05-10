@@ -11,27 +11,26 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/itsmerahul99/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — Rahul Patel
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              Bachelor of Engineering in Computer Engineering, GTU, Ahmedabad
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              Diploma in Computer Engineering, GTU, Ahmedabad
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/ItsmeRahul99"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +39,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/itsmerahul99/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -48,7 +47,7 @@ const Contact = () => {
             >
               LinkedIn <MdArrowOutward />
             </a>
-            <a
+            {/* <a
               href="https://www.youtube.com/@Leftbraincoder"
               target="_blank"
               rel="noreferrer"
@@ -65,11 +64,11 @@ const Contact = () => {
               className="contact-social"
             >
               Instagram <MdArrowOutward />
-            </a>
+            </a> */}
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Rahul Patel</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

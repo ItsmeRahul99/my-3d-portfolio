@@ -27,6 +27,11 @@
   width: 100%;
 }
 
+.carousel-wrapper center span {
+  margin-top: 3rem;
+  font-size: 50px;
+}
+
 .carousel-track-container {
   overflow: hidden;
   width: 100%;

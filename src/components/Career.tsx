@@ -15,58 +15,63 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Founder</h4>
+                <h5>FertiOS</h5>
               </div>
               <h3>NOW</h3>
             </div>
+
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building FertiOS, a women’s health platform focused on menstrual health,
+              cycle tracking, PCOS/PCOD awareness, and personalized health insights to
+              empower women through technology.
+            </p>
+          </div>
+
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Publicis Sapient</h4>
+                <h5>5+ Years · Bengaluru</h5>
+              </div>
+              <h3>2021-26</h3>
+            </div>
+            <p>
+              Full Stack Engineer with 6+ years of experience building scalable and
+              high-performance web applications across frontend, backend, and cloud
+              environments. Experienced in developing modern user interfaces, backend APIs,
+              reusable system architecture, AI-powered integrations, and production-ready
+              platforms for real-world applications. Skilled in performance optimization,
+              responsive design, cloud infrastructure, system scalability, and delivering
+              reliable end-to-end solutions in fast-paced product environments.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>FE Engineer</h4>
+                <h5>Nimblechapps</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2020–21</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Worked on frontend application development, API integration, state
+              management, UI implementation, bug fixes from QA and users and improving user experience across
+              multiple web platforms using modern JavaScript frameworks.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>FE Dev</h4>
+                <h5>Early Career Journey</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2019–20</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Started professional frontend development journey by building responsive
+              interfaces, learning core web fundamentals, and working with HTML, CSS,
+              JavaScript, and React to create modern user-focused applications.
             </p>
           </div>
         </div>
